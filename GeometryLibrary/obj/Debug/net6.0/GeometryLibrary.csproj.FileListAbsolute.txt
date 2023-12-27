@@ -1,0 +1,12 @@
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/obj/Debug/net6.0/GeometryLibrary.csproj.AssemblyReference.cache
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/obj/Debug/net6.0/GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/obj/Debug/net6.0/GeometryLibrary.AssemblyInfoInputs.cache
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/obj/Debug/net6.0/GeometryLibrary.AssemblyInfo.cs
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/obj/Debug/net6.0/GeometryLibrary.csproj.CoreCompileInputs.cache
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/bin/Debug/net6.0/GeometryLibrary.deps.json
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/bin/Debug/net6.0/GeometryLibrary.dll
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/bin/Debug/net6.0/GeometryLibrary.pdb
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/obj/Debug/net6.0/GeometryLibrary.dll
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/obj/Debug/net6.0/refint/GeometryLibrary.dll
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/obj/Debug/net6.0/GeometryLibrary.pdb
+/Users/darkkezar/Documents/GitHub/TestTaskMindBox/GeometryLibrary/obj/Debug/net6.0/ref/GeometryLibrary.dll
